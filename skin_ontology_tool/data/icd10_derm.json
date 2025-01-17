@@ -1,0 +1,1770 @@
+{
+    "code": "XII",
+    "description": "Diseases of the skin and subcutaneous tissue",
+    "subcategory": [
+      {
+        "code": "L00-L08",
+        "description": "Infections of the skin and subcutaneous tissue",
+        "subcategory": [
+          {
+            "code": "L00",
+            "description": "Staphylococcal scalded skin syndrome"
+          },
+          {
+            "code": "L01",
+            "description": "Impetigo",
+            "subcategory": [
+              {
+                "code": "L01.0",
+                "description": "Impetigo [any organism] [any site]"
+              },
+              {
+                "code": "L01.1",
+                "description": "Impetiginization of other dermatoses"
+              }
+            ]
+          },
+          {
+            "code": "L02",
+            "description": "Cutaneous abscess, furuncle and carbuncle",
+            "subcategory": [
+              {
+                "code": "L02.0",
+                "description": "Cutaneous abscess, furuncle and carbuncle of face"
+              },
+              {
+                "code": "L02.1",
+                "description": "Cutaneous abscess, furuncle and carbuncle of neck"
+              },
+              {
+                "code": "L02.2",
+                "description": "Cutaneous abscess, furuncle and carbuncle of trunk"
+              },
+              {
+                "code": "L02.3",
+                "description": "Cutaneous abscess, furuncle and carbuncle of buttock"
+              },
+              {
+                "code": "L02.4",
+                "description": "Cutaneous abscess, furuncle and carbuncle of limb"
+              },
+              {
+                "code": "L02.8",
+                "description": "Cutaneous abscess, furuncle and carbuncle of other sites"
+              },
+              {
+                "code": "L02.9",
+                "description": "Cutaneous abscess, furuncle and carbuncle, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L03",
+            "description": "Cellulitis",
+            "subcategory": [
+              {
+                "code": "L03.0",
+                "description": "Cellulitis of finger and toe"
+              },
+              {
+                "code": "L03.1",
+                "description": "Cellulitis of other parts of limb"
+              },
+              {
+                "code": "L03.2",
+                "description": "Cellulitis of face"
+              },
+              {
+                "code": "L03.3",
+                "description": "Cellulitis of trunk"
+              },
+              {
+                "code": "L03.8",
+                "description": "Cellulitis of other sites"
+              },
+              {
+                "code": "L03.9",
+                "description": "Cellulitis, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L04",
+            "description": "Acute lymphadenitis",
+            "subcategory": [
+              {
+                "code": "L04.0",
+                "description": "Acute lymphadenitis of face, head and neck"
+              },
+              {
+                "code": "L04.1",
+                "description": "Acute lymphadenitis of trunk"
+              },
+              {
+                "code": "L04.2",
+                "description": "Acute lymphadenitis of upper limb"
+              },
+              {
+                "code": "L04.3",
+                "description": "Acute lymphadenitis of lower limb"
+              },
+              {
+                "code": "L04.8",
+                "description": "Acute lymphadenitis of other sites"
+              },
+              {
+                "code": "L04.9",
+                "description": "Acute lymphadenitis, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L05",
+            "description": "Pilonidal cyst",
+            "subcategory": [
+              {
+                "code": "L05.0",
+                "description": "Pilonidal cyst with abscess"
+              },
+              {
+                "code": "L05.9",
+                "description": "Pilonidal cyst without abscess"
+              }
+            ]
+          },
+          {
+            "code": "L08",
+            "description": "Other local infections of skin and subcutaneous tissue",
+            "subcategory": [
+              {
+                "code": "L08.0",
+                "description": "Pyoderma"
+              },
+              {
+                "code": "L08.1",
+                "description": "Erythrasma"
+              },
+              {
+                "code": "L08.8",
+                "description": "Other specified local infections of skin and subcutaneous tissue"
+              },
+              {
+                "code": "L08.9",
+                "description": "Local infection of skin and subcutaneous tissue, unspecified"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "L10-L14",
+        "description": "Bullous disorders",
+        "subcategory": [
+          {
+            "code": "L10",
+            "description": "Pemphigus",
+            "subcategory": [
+              {
+                "code": "L10.0",
+                "description": "Pemphigus vulgaris"
+              },
+              {
+                "code": "L10.1",
+                "description": "Pemphigus vegetans"
+              },
+              {
+                "code": "L10.2",
+                "description": "Pemphigus foliaceus"
+              },
+              {
+                "code": "L10.3",
+                "description": "Brazilian pemphigus [fogo selvagem]"
+              },
+              {
+                "code": "L10.4",
+                "description": "Pemphigus erythematosus"
+              },
+              {
+                "code": "L10.5",
+                "description": "Drug-induced pemphigus"
+              },
+              {
+                "code": "L10.8",
+                "description": "Other pemphigus"
+              },
+              {
+                "code": "L10.9",
+                "description": "Pemphigus, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L11",
+            "description": "Other acantholytic disorders",
+            "subcategory": [
+              {
+                "code": "L11.0",
+                "description": "Acquired keratosis follicularis"
+              },
+              {
+                "code": "L11.1",
+                "description": "Transient acantholytic dermatosis [Grover]"
+              },
+              {
+                "code": "L11.8",
+                "description": "Other specified acantholytic disorders"
+              },
+              {
+                "code": "L11.9",
+                "description": "Acantholytic disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L12",
+            "description": "Pemphigoid",
+            "subcategory": [
+              {
+                "code": "L12.0",
+                "description": "Bullous pemphigoid"
+              },
+              {
+                "code": "L12.1",
+                "description": "Cicatricial pemphigoid"
+              },
+              {
+                "code": "L12.2",
+                "description": "Chronic bullous disease of childhood"
+              },
+              {
+                "code": "L12.3",
+                "description": "Acquired epidermolysis bullosa"
+              },
+              {
+                "code": "L12.8",
+                "description": "Other pemphigoid"
+              },
+              {
+                "code": "L12.9",
+                "description": "Pemphigoid, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L13",
+            "description": "Other bullous disorders",
+            "subcategory": [
+              {
+                "code": "L13.0",
+                "description": "Dermatitis herpetiformis"
+              },
+              {
+                "code": "L13.1",
+                "description": "Subcorneal pustular dermatitis"
+              },
+              {
+                "code": "L13.8",
+                "description": "Other specified bullous disorders"
+              },
+              {
+                "code": "L13.9",
+                "description": "Bullous disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L14",
+            "description": "Bullous disorders in diseases classified elsewhere"
+          }
+        ]
+      },
+      {
+        "code": "L20-L30",
+        "description": "Dermatitis and eczema",
+        "subcategory": [
+          {
+            "code": "L20",
+            "description": "Atopic dermatitis",
+            "subcategory": [
+              {
+                "code": "L20.0",
+                "description": "Besnier prurigo"
+              },
+              {
+                "code": "L20.8",
+                "description": "Other atopic dermatitis"
+              },
+              {
+                "code": "L20.9",
+                "description": "Atopic dermatitis, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L21",
+            "description": "Seborrhoeic dermatitis",
+            "subcategory": [
+              {
+                "code": "L21.0",
+                "description": "Seborrhoea capitis"
+              },
+              {
+                "code": "L21.1",
+                "description": "Seborrhoeic infantile dermatitis"
+              },
+              {
+                "code": "L21.8",
+                "description": "Other seborrhoeic dermatitis"
+              },
+              {
+                "code": "L21.9",
+                "description": "Seborrhoeic dermatitis, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L22",
+            "description": "Diaper [napkin] dermatitis"
+          },
+          {
+            "code": "L23",
+            "description": "Allergic contact dermatitis",
+            "subcategory": [
+              {
+                "code": "L23.0",
+                "description": "Allergic contact dermatitis due to metals"
+              },
+              {
+                "code": "L23.1",
+                "description": "Allergic contact dermatitis due to adhesives"
+              },
+              {
+                "code": "L23.2",
+                "description": "Allergic contact dermatitis due to cosmetics"
+              },
+              {
+                "code": "L23.3",
+                "description": "Allergic contact dermatitis due to drugs in contact with skin"
+              },
+              {
+                "code": "L23.4",
+                "description": "Allergic contact dermatitis due to dyes"
+              },
+              {
+                "code": "L23.5",
+                "description": "Allergic contact dermatitis due to other chemical products"
+              },
+              {
+                "code": "L23.6",
+                "description": "Allergic contact dermatitis due to food in contact with skin"
+              },
+              {
+                "code": "L23.7",
+                "description": "Allergic contact dermatitis due to plants, except food"
+              },
+              {
+                "code": "L23.8",
+                "description": "Allergic contact dermatitis due to other agents"
+              },
+              {
+                "code": "L23.9",
+                "description": "Allergic contact dermatitis, unspecified cause"
+              }
+            ]
+          },
+          {
+            "code": "L24",
+            "description": "Irritant contact dermatitis",
+            "subcategory": [
+              {
+                "code": "L24.0",
+                "description": "Irritant contact dermatitis due to detergents"
+              },
+              {
+                "code": "L24.1",
+                "description": "Irritant contact dermatitis due to oils and greases"
+              },
+              {
+                "code": "L24.2",
+                "description": "Irritant contact dermatitis due to solvents"
+              },
+              {
+                "code": "L24.3",
+                "description": "Irritant contact dermatitis due to cosmetics"
+              },
+              {
+                "code": "L24.4",
+                "description": "Irritant contact dermatitis due to drugs in contact with skin"
+              },
+              {
+                "code": "L24.5",
+                "description": "Irritant contact dermatitis due to other chemical products"
+              },
+              {
+                "code": "L24.6",
+                "description": "Irritant contact dermatitis due to food in contact with skin"
+              },
+              {
+                "code": "L24.7",
+                "description": "Irritant contact dermatitis due to plants, except food"
+              },
+              {
+                "code": "L24.8",
+                "description": "Irritant contact dermatitis due to other agents"
+              },
+              {
+                "code": "L24.9",
+                "description": "Irritant contact dermatitis, unspecified cause"
+              }
+            ]
+          },
+          {
+            "code": "L25",
+            "description": "Unspecified contact dermatitis",
+            "subcategory": [
+              {
+                "code": "L25.0",
+                "description": "Unspecified contact dermatitis due to cosmetics"
+              },
+              {
+                "code": "L25.1",
+                "description": "Unspecified contact dermatitis due to drugs in contact with skin"
+              },
+              {
+                "code": "L25.2",
+                "description": "Unspecified contact dermatitis due to dyes"
+              },
+              {
+                "code": "L25.3",
+                "description": "Unspecified contact dermatitis due to other chemical products"
+              },
+              {
+                "code": "L25.4",
+                "description": "Unspecified contact dermatitis due to food in contact with skin"
+              },
+              {
+                "code": "L25.5",
+                "description": "Unspecified contact dermatitis due to plants, except food"
+              },
+              {
+                "code": "L25.8",
+                "description": "Unspecified contact dermatitis due to other agents"
+              },
+              {
+                "code": "L25.9",
+                "description": "Unspecified contact dermatitis, unspecified cause"
+              }
+            ]
+          },
+          {
+            "code": "L26",
+            "description": "Exfoliative dermatitis"
+          },
+          {
+            "code": "L27",
+            "description": "Dermatitis due to substances taken internally",
+            "subcategory": [
+              {
+                "code": "L27.0",
+                "description": "Generalized skin eruption due to drugs and medicaments"
+              },
+              {
+                "code": "L27.1",
+                "description": "Localized skin eruption due to drugs and medicaments"
+              },
+              {
+                "code": "L27.2",
+                "description": "Dermatitis due to ingested food"
+              },
+              {
+                "code": "L27.8",
+                "description": "Dermatitis due to other substances taken internally"
+              },
+              {
+                "code": "L27.9",
+                "description": "Dermatitis due to unspecified substance taken internally"
+              }
+            ]
+          },
+          {
+            "code": "L28",
+            "description": "Lichen simplex chronicus and prurigo",
+            "subcategory": [
+              {
+                "code": "L28.0",
+                "description": "Lichen simplex chronicus"
+              },
+              {
+                "code": "L28.1",
+                "description": "Prurigo nodularis"
+              },
+              {
+                "code": "L28.2",
+                "description": "Other prurigo"
+              }
+            ]
+          },
+          {
+            "code": "L29",
+            "description": "Pruritus",
+            "subcategory": [
+              {
+                "code": "L29.0",
+                "description": "Pruritus ani"
+              },
+              {
+                "code": "L29.1",
+                "description": "Pruritus scroti"
+              },
+              {
+                "code": "L29.2",
+                "description": "Pruritus vulvae"
+              },
+              {
+                "code": "L29.3",
+                "description": "Anogenital pruritus, unspecified"
+              },
+              {
+                "code": "L29.8",
+                "description": "Other pruritus"
+              },
+              {
+                "code": "L29.9",
+                "description": "Pruritus, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L30",
+            "description": "Other dermatitis",
+            "subcategory": [
+              {
+                "code": "L30.0",
+                "description": "Nummular dermatitis"
+              },
+              {
+                "code": "L30.1",
+                "description": "Dyshidrosis [pompholyx]"
+              },
+              {
+                "code": "L30.2",
+                "description": "Cutaneous autosensitization"
+              },
+              {
+                "code": "L30.3",
+                "description": "Infective dermatitis"
+              },
+              {
+                "code": "L30.4",
+                "description": "Erythema intertrigo"
+              },
+              {
+                "code": "L30.5",
+                "description": "Pityriasis alba"
+              },
+              {
+                "code": "L30.8",
+                "description": "Other specified dermatitis"
+              },
+              {
+                "code": "L30.9",
+                "description": "Dermatitis, unspecified"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "L40-L45",
+        "description": "Papulosquamous disorders",
+        "subcategory": [
+          {
+            "code": "L40",
+            "description": "Psoriasis",
+            "subcategory": [
+              {
+                "code": "L40.0",
+                "description": "Psoriasis vulgaris"
+              },
+              {
+                "code": "L40.1",
+                "description": "Generalized pustular psoriasis"
+              },
+              {
+                "code": "L40.2",
+                "description": "Acrodermatitis continua"
+              },
+              {
+                "code": "L40.3",
+                "description": "Pustulosis palmaris et plantaris"
+              },
+              {
+                "code": "L40.4",
+                "description": "Guttate psoriasis"
+              },
+              {
+                "code": "L40.5",
+                "description": "Arthropathic psoriasis"
+              },
+              {
+                "code": "L40.8",
+                "description": "Other psoriasis"
+              },
+              {
+                "code": "L40.9",
+                "description": "Psoriasis, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L41",
+            "description": "Parapsoriasis",
+            "subcategory": [
+              {
+                "code": "L41.0",
+                "description": "Pityriasis lichenoides et varioliformis acuta"
+              },
+              {
+                "code": "L41.1",
+                "description": "Pityriasis lichenoides chronica"
+              },
+              {
+                "code": "L41.3",
+                "description": "Small plaque parapsoriasis"
+              },
+              {
+                "code": "L41.4",
+                "description": "Large plaque parapsoriasis"
+              },
+              {
+                "code": "L41.5",
+                "description": "Retiform parapsoriasis"
+              },
+              {
+                "code": "L41.8",
+                "description": "Other parapsoriasis"
+              },
+              {
+                "code": "L41.9",
+                "description": "Parapsoriasis, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L42",
+            "description": "Pityriasis rosea"
+          },
+          {
+            "code": "L43",
+            "description": "Lichen planus",
+            "subcategory": [
+              {
+                "code": "L43.0",
+                "description": "Hypertrophic lichen planus"
+              },
+              {
+                "code": "L43.1",
+                "description": "Bullous lichen planus"
+              },
+              {
+                "code": "L43.2",
+                "description": "Lichenoid drug reaction"
+              },
+              {
+                "code": "L43.3",
+                "description": "Subacute (active) lichen planus"
+              },
+              {
+                "code": "L43.8",
+                "description": "Other lichen planus"
+              },
+              {
+                "code": "L43.9",
+                "description": "Lichen planus, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L44",
+            "description": "Other papulosquamous disorders",
+            "subcategory": [
+              {
+                "code": "L44.0",
+                "description": "Pityriasis rubra pilaris"
+              },
+              {
+                "code": "L44.1",
+                "description": "Lichen nitidus"
+              },
+              {
+                "code": "L44.2",
+                "description": "Lichen striatus"
+              },
+              {
+                "code": "L44.3",
+                "description": "Lichen ruber moniliformis"
+              },
+              {
+                "code": "L44.4",
+                "description": "Infantile papular acrodermatitis [Giannotti-Crosti]"
+              },
+              {
+                "code": "L44.8",
+                "description": "Other specified papulosquamous disorders"
+              },
+              {
+                "code": "L44.9",
+                "description": "Papulosquamous disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L45",
+            "description": "Papulosquamous disorders in diseases classified elsewhere"
+          }
+        ]
+      },
+      {
+        "code": "L50-L54",
+        "description": "Urticaria and erythema",
+        "subcategory": [
+          {
+            "code": "L50",
+            "description": "Urticaria",
+            "subcategory": [
+              {
+                "code": "L50.0",
+                "description": "Allergic urticaria"
+              },
+              {
+                "code": "L50.1",
+                "description": "Idiopathic urticaria"
+              },
+              {
+                "code": "L50.2",
+                "description": "Urticaria due to cold and heat"
+              },
+              {
+                "code": "L50.3",
+                "description": "Dermatographic urticaria"
+              },
+              {
+                "code": "L50.4",
+                "description": "Vibratory urticaria"
+              },
+              {
+                "code": "L50.5",
+                "description": "Cholinergic urticaria"
+              },
+              {
+                "code": "L50.6",
+                "description": "Contact urticaria"
+              },
+              {
+                "code": "L50.8",
+                "description": "Other urticaria"
+              },
+              {
+                "code": "L50.9",
+                "description": "Urticaria, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L51",
+            "description": "Erythema multiforme",
+            "subcategory": [
+              {
+                "code": "L51.0",
+                "description": "Nonbullous erythema multiforme"
+              },
+              {
+                "code": "L51.1",
+                "description": "Bullous erythema multiforme"
+              },
+              {
+                "code": "L51.2",
+                "description": "Toxic epidermal necrolysis [Lyell]"
+              },
+              {
+                "code": "L51.8",
+                "description": "Other erythema multiforme"
+              },
+              {
+                "code": "L51.9",
+                "description": "Erythema multiforme, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L52",
+            "description": "Erythema nodosum"
+          },
+          {
+            "code": "L53",
+            "description": "Other erythematous conditions",
+            "subcategory": [
+              {
+                "code": "L53.0",
+                "description": "Toxic erythema"
+              },
+              {
+                "code": "L53.1",
+                "description": "Erythema annulare centrifugum"
+              },
+              {
+                "code": "L53.2",
+                "description": "Erythema marginatum"
+              },
+              {
+                "code": "L53.3",
+                "description": "Other chronic figurate erythema"
+              },
+              {
+                "code": "L53.8",
+                "description": "Other specified erythematous conditions"
+              },
+              {
+                "code": "L53.9",
+                "description": "Erythematous condition, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L54",
+            "description": "Erythema in diseases classified elsewhere",
+            "subcategory": [
+              {
+                "code": "L54.0",
+                "description": "Erythema marginatum in acute rheumatic fever"
+              },
+              {
+                "code": "L54.8",
+                "description": "Erythema in other diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "L55-L59",
+        "description": "Radiation-related disorders of the skin and subcutaneous tissue",
+        "subcategory": [
+          {
+            "code": "L55",
+            "description": "Sunburn",
+            "subcategory": [
+              {
+                "code": "L55.0",
+                "description": "Sunburn of first degree"
+              },
+              {
+                "code": "L55.1",
+                "description": "Sunburn of second degree"
+              },
+              {
+                "code": "L55.2",
+                "description": "Sunburn of third degree"
+              },
+              {
+                "code": "L55.8",
+                "description": "Other sunburn"
+              },
+              {
+                "code": "L55.9",
+                "description": "Sunburn, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L56",
+            "description": "Other acute skin changes due to ultraviolet radiation",
+            "subcategory": [
+              {
+                "code": "L56.0",
+                "description": "Drug phototoxic response"
+              },
+              {
+                "code": "L56.1",
+                "description": "Drug photoallergic response"
+              },
+              {
+                "code": "L56.2",
+                "description": "Photocontact dermatitis [berloque dermatitis]"
+              },
+              {
+                "code": "L56.3",
+                "description": "Solar urticaria"
+              },
+              {
+                "code": "L56.4",
+                "description": "Polymorphous light eruption"
+              },
+              {
+                "code": "L56.8",
+                "description": "Other specified acute skin changes due to ultraviolet radiation"
+              },
+              {
+                "code": "L56.9",
+                "description": "Acute skin change due to ultraviolet radiation, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L57",
+            "description": "Skin changes due to chronic exposure to nonionizing radiation",
+            "subcategory": [
+              {
+                "code": "L57.0",
+                "description": "Actinic keratosis"
+              },
+              {
+                "code": "L57.1",
+                "description": "Actinic reticuloid"
+              },
+              {
+                "code": "L57.2",
+                "description": "Cutis rhomboidalis nuchae"
+              },
+              {
+                "code": "L57.3",
+                "description": "Poikiloderma of Civatte"
+              },
+              {
+                "code": "L57.4",
+                "description": "Cutis laxa senilis"
+              },
+              {
+                "code": "L57.5",
+                "description": "Actinic granuloma"
+              },
+              {
+                "code": "L57.8",
+                "description": "Other skin changes due to chronic exposure to nonionizing radiation"
+              },
+              {
+                "code": "L57.9",
+                "description": "Skin changes due to chronic exposure to nonionizing radiation, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L58",
+            "description": "Radiodermatitis",
+            "subcategory": [
+              {
+                "code": "L58.0",
+                "description": "Acute radiodermatitis"
+              },
+              {
+                "code": "L58.1",
+                "description": "Chronic radiodermatitis"
+              },
+              {
+                "code": "L58.9",
+                "description": "Radiodermatitis, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L59",
+            "description": "Other disorders of skin and subcutaneous tissue related to radiation",
+            "subcategory": [
+              {
+                "code": "L59.0",
+                "description": "Erythema ab igne [dermatitis ab igne]"
+              },
+              {
+                "code": "L59.8",
+                "description": "Other specified disorders of skin and subcutaneous tissue related to radiation"
+              },
+              {
+                "code": "L59.9",
+                "description": "Disorder of skin and subcutaneous tissue related to radiation, unspecified"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "L60-L75",
+        "description": "Disorders of skin appendages",
+        "subcategory": [
+          {
+            "code": "L60",
+            "description": "Nail disorders",
+            "subcategory": [
+              {
+                "code": "L60.0",
+                "description": "Ingrowing nail"
+              },
+              {
+                "code": "L60.1",
+                "description": "Onycholysis"
+              },
+              {
+                "code": "L60.2",
+                "description": "Onychogryphosis"
+              },
+              {
+                "code": "L60.3",
+                "description": "Nail dystrophy"
+              },
+              {
+                "code": "L60.4",
+                "description": "Beau lines"
+              },
+              {
+                "code": "L60.5",
+                "description": "Yellow nail syndrome"
+              },
+              {
+                "code": "L60.8",
+                "description": "Other nail disorders"
+              },
+              {
+                "code": "L60.9",
+                "description": "Nail disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L62",
+            "description": "Nail disorders in diseases classified elsewhere",
+            "subcategory": [
+              {
+                "code": "L62.0",
+                "description": "Clubbed nail pachydermoperiostosis"
+              },
+              {
+                "code": "L62.8",
+                "description": "Nail disorders in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "code": "L63",
+            "description": "Alopecia areata",
+            "subcategory": [
+              {
+                "code": "L63.0",
+                "description": "Alopecia (capitis) totalis"
+              },
+              {
+                "code": "L63.1",
+                "description": "Alopecia universalis"
+              },
+              {
+                "code": "L63.2",
+                "description": "Ophiasis"
+              },
+              {
+                "code": "L63.8",
+                "description": "Other alopecia areata"
+              },
+              {
+                "code": "L63.9",
+                "description": "Alopecia areata, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L64",
+            "description": "Androgenic alopecia",
+            "subcategory": [
+              {
+                "code": "L64.0",
+                "description": "Drug-induced androgenic alopecia"
+              },
+              {
+                "code": "L64.8",
+                "description": "Other androgenic alopecia"
+              },
+              {
+                "code": "L64.9",
+                "description": "Androgenic alopecia, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L65",
+            "description": "Other nonscarring hair loss",
+            "subcategory": [
+              {
+                "code": "L65.0",
+                "description": "Telogen effluvium"
+              },
+              {
+                "code": "L65.1",
+                "description": "Anagen effluvium"
+              },
+              {
+                "code": "L65.2",
+                "description": "Alopecia mucinosa"
+              },
+              {
+                "code": "L65.8",
+                "description": "Other specified nonscarring hair loss"
+              },
+              {
+                "code": "L65.9",
+                "description": "Nonscarring hair loss, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L66",
+            "description": "Cicatricial alopecia [scarring hair loss]",
+            "subcategory": [
+              {
+                "code": "L66.0",
+                "description": "Pseudopelade"
+              },
+              {
+                "code": "L66.1",
+                "description": "Lichen planopilaris"
+              },
+              {
+                "code": "L66.2",
+                "description": "Folliculitis decalvans"
+              },
+              {
+                "code": "L66.3",
+                "description": "Perifolliculitis capitis abscedens"
+              },
+              {
+                "code": "L66.4",
+                "description": "Folliculitis ulerythematosa reticulata"
+              },
+              {
+                "code": "L66.8",
+                "description": "Other cicatricial alopecia"
+              },
+              {
+                "code": "L66.9",
+                "description": "Cicatricial alopecia, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L67",
+            "description": "Hair colour and hair shaft abnormalities",
+            "subcategory": [
+              {
+                "code": "L67.0",
+                "description": "Trichorrhexis nodosa"
+              },
+              {
+                "code": "L67.1",
+                "description": "Variations in hair colour"
+              },
+              {
+                "code": "L67.8",
+                "description": "Other hair colour and hair shaft abnormalities"
+              },
+              {
+                "code": "L67.9",
+                "description": "Hair colour and hair shaft abnormality, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L68",
+            "description": "Hypertrichosis",
+            "subcategory": [
+              {
+                "code": "L68.0",
+                "description": "Hirsutism"
+              },
+              {
+                "code": "L68.1",
+                "description": "Acquired hypertrichosis lanuginosa"
+              },
+              {
+                "code": "L68.2",
+                "description": "Localized hypertrichosis"
+              },
+              {
+                "code": "L68.3",
+                "description": "Polytrichia"
+              },
+              {
+                "code": "L68.8",
+                "description": "Other hypertrichosis"
+              },
+              {
+                "code": "L68.9",
+                "description": "Hypertrichosis, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L70",
+            "description": "Acne",
+            "subcategory": [
+              {
+                "code": "L70.0",
+                "description": "Acne vulgaris"
+              },
+              {
+                "code": "L70.1",
+                "description": "Acne conglobata"
+              },
+              {
+                "code": "L70.2",
+                "description": "Acne varioliformis"
+              },
+              {
+                "code": "L70.3",
+                "description": "Acne tropica"
+              },
+              {
+                "code": "L70.4",
+                "description": "Infantile acne"
+              },
+              {
+                "code": "L70.5",
+                "description": "Acné excoriée"
+              },
+              {
+                "code": "L70.8",
+                "description": "Other acne"
+              },
+              {
+                "code": "L70.9",
+                "description": "Acne, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L71",
+            "description": "Rosacea",
+            "subcategory": [
+              {
+                "code": "L71.0",
+                "description": "Perioral dermatitis"
+              },
+              {
+                "code": "L71.1",
+                "description": "Rhinophyma"
+              },
+              {
+                "code": "L71.8",
+                "description": "Other rosacea"
+              },
+              {
+                "code": "L71.9",
+                "description": "Rosacea, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L72",
+            "description": "Follicular cysts of skin and subcutaneous tissue",
+            "subcategory": [
+              {
+                "code": "L72.0",
+                "description": "Epidermal cyst"
+              },
+              {
+                "code": "L72.1",
+                "description": "Trichilemmal cyst"
+              },
+              {
+                "code": "L72.2",
+                "description": "Steatocystoma multiplex"
+              },
+              {
+                "code": "L72.8",
+                "description": "Other follicular cysts of skin and subcutaneous tissue"
+              },
+              {
+                "code": "L72.9",
+                "description": "Follicular cyst of skin and subcutaneous tissue, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L73",
+            "description": "Other follicular disorders",
+            "subcategory": [
+              {
+                "code": "L73.0",
+                "description": "Acne keloid"
+              },
+              {
+                "code": "L73.1",
+                "description": "Pseudofolliculitis barbae"
+              },
+              {
+                "code": "L73.2",
+                "description": "Hidradenitis suppurativa"
+              },
+              {
+                "code": "L73.8",
+                "description": "Other specified follicular disorders"
+              },
+              {
+                "code": "L73.9",
+                "description": "Follicular disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L74",
+            "description": "Eccrine sweat disorders",
+            "subcategory": [
+              {
+                "code": "L74.0",
+                "description": "Miliaria rubra"
+              },
+              {
+                "code": "L74.1",
+                "description": "Miliaria crystallina"
+              },
+              {
+                "code": "L74.2",
+                "description": "Miliaria profunda"
+              },
+              {
+                "code": "L74.3",
+                "description": "Miliaria, unspecified"
+              },
+              {
+                "code": "L74.4",
+                "description": "Anhidrosis"
+              },
+              {
+                "code": "L74.8",
+                "description": "Other eccrine sweat disorders"
+              },
+              {
+                "code": "L74.9",
+                "description": "Eccrine sweat disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L75",
+            "description": "Apocrine sweat disorders",
+            "subcategory": [
+              {
+                "code": "L75.0",
+                "description": "Bromhidrosis"
+              },
+              {
+                "code": "L75.1",
+                "description": "Chromhidrosis"
+              },
+              {
+                "code": "L75.2",
+                "description": "Apocrine miliaria"
+              },
+              {
+                "code": "L75.8",
+                "description": "Other apocrine sweat disorders"
+              },
+              {
+                "code": "L75.9",
+                "description": "Apocrine sweat disorder, unspecified"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "L80-L99",
+        "description": "Other disorders of the skin and subcutaneous tissue",
+        "subcategory": [
+          {
+            "code": "L80",
+            "description": "Vitiligo"
+          },
+          {
+            "code": "L81",
+            "description": "Other disorders of pigmentation",
+            "subcategory": [
+              {
+                "code": "L81.0",
+                "description": "Postinflammatory hyperpigmentation"
+              },
+              {
+                "code": "L81.1",
+                "description": "Chloasma"
+              },
+              {
+                "code": "L81.2",
+                "description": "Freckles"
+              },
+              {
+                "code": "L81.3",
+                "description": "Café au lait spots"
+              },
+              {
+                "code": "L81.4",
+                "description": "Other melanin hyperpigmentation"
+              },
+              {
+                "code": "L81.5",
+                "description": "Leukoderma, not elsewhere classified"
+              },
+              {
+                "code": "L81.6",
+                "description": "Other disorders of diminished melanin formation"
+              },
+              {
+                "code": "L81.7",
+                "description": "Pigmented purpuric dermatosis"
+              },
+              {
+                "code": "L81.8",
+                "description": "Other specified disorders of pigmentation"
+              },
+              {
+                "code": "L81.9",
+                "description": "Disorder of pigmentation, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L82",
+            "description": "Seborrhoeic keratosis"
+          },
+          {
+            "code": "L83",
+            "description": "Acanthosis nigricans"
+          },
+          {
+            "code": "L84",
+            "description": "Corns and callosities"
+          },
+          {
+            "code": "L85",
+            "description": "Other epidermal thickening",
+            "subcategory": [
+              {
+                "code": "L85.0",
+                "description": "Acquired ichthyosis"
+              },
+              {
+                "code": "L85.1",
+                "description": "Acquired keratosis [keratoderma] palmaris et plantaris"
+              },
+              {
+                "code": "L85.2",
+                "description": "Keratosis punctata (palmaris et plantaris)"
+              },
+              {
+                "code": "L85.3",
+                "description": "Xerosis cutis"
+              },
+              {
+                "code": "L85.8",
+                "description": "Other specified epidermal thickening"
+              },
+              {
+                "code": "L85.9",
+                "description": "Epidermal thickening, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L86",
+            "description": "Keratoderma in diseases classified elsewhere"
+          },
+          {
+            "code": "L87",
+            "description": "Transepidermal elimination disorders",
+            "subcategory": [
+              {
+                "code": "L87.0",
+                "description": "Keratosis follicularis et parafollicularis in cutem penetrans [Kyrle]"
+              },
+              {
+                "code": "L87.1",
+                "description": "Reactive perforating collagenosis"
+              },
+              {
+                "code": "L87.2",
+                "description": "Elastosis perforans serpiginosa"
+              },
+              {
+                "code": "L87.8",
+                "description": "Other transepidermal elimination disorders"
+              },
+              {
+                "code": "L87.9",
+                "description": "Transepidermal elimination disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L88",
+            "description": "Pyoderma gangrenosum"
+          },
+          {
+            "code": "L89",
+            "description": "Decubitus ulcer and pressure area",
+            "subcategory": [
+              {
+                "code": "L89.0",
+                "description": "Stage I decubitus ulcer and pressure area"
+              },
+              {
+                "code": "L89.1",
+                "description": "Stage II decubitus ulcer"
+              },
+              {
+                "code": "L89.2",
+                "description": "Stage III decubitus ulcer"
+              },
+              {
+                "code": "L89.3",
+                "description": "Stage IV decubitus ulcer"
+              },
+              {
+                "code": "L89.9",
+                "description": "Decubitus ulcer and pressure area, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L90",
+            "description": "Atrophic disorders of skin",
+            "subcategory": [
+              {
+                "code": "L90.0",
+                "description": "Lichen sclerosus et atrophicus"
+              },
+              {
+                "code": "L90.1",
+                "description": "Anetoderma of Schweninger-Buzzi"
+              },
+              {
+                "code": "L90.2",
+                "description": "Anetoderma of Jadassohn-Pellizzari"
+              },
+              {
+                "code": "L90.3",
+                "description": "Atrophoderma of Pasini and Pierini"
+              },
+              {
+                "code": "L90.4",
+                "description": "Acrodermatitis chronica atrophicans"
+              },
+              {
+                "code": "L90.5",
+                "description": "Scar conditions and fibrosis of skin"
+              },
+              {
+                "code": "L90.6",
+                "description": "Striae atrophicae"
+              },
+              {
+                "code": "L90.8",
+                "description": "Other atrophic disorders of skin"
+              },
+              {
+                "code": "L90.9",
+                "description": "Atrophic disorder of skin, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L91",
+            "description": "Hypertrophic disorders of skin",
+            "subcategory": [
+              {
+                "code": "L91.0",
+                "description": "Hypertrophic scar"
+              },
+              {
+                "code": "L91.8",
+                "description": "Other hypertrophic disorders of skin"
+              },
+              {
+                "code": "L91.9",
+                "description": "Hypertrophic disorder of skin, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L92",
+            "description": "Granulomatous disorders of skin and subcutaneous tissue",
+            "subcategory": [
+              {
+                "code": "L92.0",
+                "description": "Granuloma annulare"
+              },
+              {
+                "code": "L92.1",
+                "description": "Necrobiosis lipoidica, not elsewhere classified"
+              },
+              {
+                "code": "L92.2",
+                "description": "Granuloma faciale [eosinophilic granuloma of skin]"
+              },
+              {
+                "code": "L92.3",
+                "description": "Foreign body granuloma of skin and subcutaneous tissue"
+              },
+              {
+                "code": "L92.8",
+                "description": "Other granulomatous disorders of skin and subcutaneous tissue"
+              },
+              {
+                "code": "L92.9",
+                "description": "Granulomatous disorder of skin and subcutaneous tissue, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L93",
+            "description": "Lupus erythematosus",
+            "subcategory": [
+              {
+                "code": "L93.0",
+                "description": "Discoid lupus erythematosus"
+              },
+              {
+                "code": "L93.1",
+                "description": "Subacute cutaneous lupus erythematosus"
+              },
+              {
+                "code": "L93.2",
+                "description": "Other local lupus erythematosus"
+              }
+            ]
+          },
+          {
+            "code": "L94",
+            "description": "Other localized connective tissue disorders",
+            "subcategory": [
+              {
+                "code": "L94.0",
+                "description": "Localized scleroderma [morphea]"
+              },
+              {
+                "code": "L94.1",
+                "description": "Linear scleroderma"
+              },
+              {
+                "code": "L94.2",
+                "description": "Calcinosis cutis"
+              },
+              {
+                "code": "L94.3",
+                "description": "Sclerodactyly"
+              },
+              {
+                "code": "L94.4",
+                "description": "Gottron papules"
+              },
+              {
+                "code": "L94.5",
+                "description": "Poikiloderma vasculare atrophicans"
+              },
+              {
+                "code": "L94.6",
+                "description": "Ainhum"
+              },
+              {
+                "code": "L94.8",
+                "description": "Other specified localized connective tissue disorders"
+              },
+              {
+                "code": "L94.9",
+                "description": "Localized connective tissue disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L95",
+            "description": "Vasculitis limited to skin, not elsewhere classified",
+            "subcategory": [
+              {
+                "code": "L95.0",
+                "description": "Livedoid vasculitis"
+              },
+              {
+                "code": "L95.1",
+                "description": "Erythema elevatum diutinum"
+              },
+              {
+                "code": "L95.8",
+                "description": "Other vasculitis limited to skin"
+              },
+              {
+                "code": "L95.9",
+                "description": "Vasculitis limited to skin, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L97",
+            "description": "Ulcer of lower limb, not elsewhere classified"
+          },
+          {
+            "code": "L98",
+            "description": "Other disorders of skin and subcutaneous tissue, not elsewhere classified",
+            "subcategory": [
+              {
+                "code": "L98.0",
+                "description": "Pyogenic granuloma"
+              },
+              {
+                "code": "L98.1",
+                "description": "Factitial dermatitis"
+              },
+              {
+                "code": "L98.2",
+                "description": "Febrile neutrophilic dermatosis [Sweet]"
+              },
+              {
+                "code": "L98.3",
+                "description": "Eosinophilic cellulitis [Wells]"
+              },
+              {
+                "code": "L98.4",
+                "description": "Chronic ulcer of skin, not elsewhere classified"
+              },
+              {
+                "code": "L98.5",
+                "description": "Mucinosis of skin"
+              },
+              {
+                "code": "L98.6",
+                "description": "Other infiltrative disorders of skin and subcutaneous tissue"
+              },
+              {
+                "code": "L98.7",
+                "description": "Excessive and redundant skin and subcutaneous tissue"
+              },
+              {
+                "code": "L98.8",
+                "description": "Other specified disorders of skin and subcutaneous tissue"
+              },
+              {
+                "code": "L98.9",
+                "description": "Disorder of skin and subcutaneous tissue, unspecified"
+              }
+            ]
+          },
+          {
+            "code": "L99",
+            "description": "Other disorders of skin and subcutaneous tissue in diseases classified elsewhere",
+            "subcategory": [
+              {
+                "code": "L99.0",
+                "description": "Amyloidosis of skin"
+              },
+              {
+                "code": "L99.8",
+                "description": "Other specified disorders of skin and subcutaneous tissue in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
+    }
+  ]
+}
